@@ -1,2 +1,4 @@
 secrets.sh
 notes.txt
+*.pyc
+venv
